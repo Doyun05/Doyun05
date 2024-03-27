@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff
+[https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=ffffff]
 <!--
 **Doyun05/Doyun05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
