@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=150&section=header" />
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header&text=My%20Portfolio&fontSize=70&animation=scaleIn)
 
