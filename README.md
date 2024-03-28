@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header&text=my portfolio&fontSize=38" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=footer&text=my portfolio&fontSize=38" />
 
 <img src="https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
