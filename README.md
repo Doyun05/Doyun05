@@ -1,8 +1,8 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=C2A6FF&height=300&section=header&text=Welcome!!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=yougbin-son's%20GitHub%20Portfolio&descAlignY=51&descAlign=62&fontColor=F9F5FC"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚶 🏃🏃&fontAlign=70)
+
 </p>
     
-## ⚙ Skiils
+## ⚙ Tech Stack
 ![a](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![b](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![c](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white) 
@@ -14,7 +14,7 @@
 
 
 
-## 🛠 IDE
+## 💻 Tech Stack 🔍
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![b](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![c](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
@@ -23,7 +23,7 @@
 ![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 
-## 🖥 Project
+## 📅 My Project
 
 #### 1. 자율 주행 자동차
 
