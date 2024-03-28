@@ -61,3 +61,6 @@
 
 <a href="https://github.com/Doyun05/Olive_Old.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29B1F7&random=false&width=435&lines=+Thank+you+for+visiting+this+far.)](https://git.io/typing-svg)
