@@ -3,7 +3,7 @@
 
 </p>
     
-## ⚙ Tech Stack
+## 🐾 My Skiils 🐾
 ![a](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![b](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![c](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white) 
