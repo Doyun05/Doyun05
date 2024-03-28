@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=150&section=header" />
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=F8E2CF&height=150&section=header&text=My%20Portfolio&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=venomslice)
 
 # 💻 Tech Stack
 <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC"> <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C"> <img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the-badge&logo=csharp&logoColor=##00599C">
