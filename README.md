@@ -1,12 +1,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-#                                        My Portfolio📫
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+My Portfolio📫
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
 
 <img src="https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
 
-#                                        My Portfolio📫
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 <!--
 **Doyun05/Doyun05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
