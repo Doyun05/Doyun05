@@ -3,12 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header&text=My%20Portfolio&fontSize=70&animation=scaleIn)
 
-
-![(https://img.shields.io/badge/C언어-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-<img src="https://img.shields.io/badge/C언어-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC"> <img src="https://img.shields.io/badge/C++언어-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C">
+ 
+<img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC"> <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C">
 
 <!--
 **Doyun05/Doyun05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
