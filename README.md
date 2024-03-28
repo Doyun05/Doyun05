@@ -1,6 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wavingF8E2CF&height=150&section=header" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header&text=my portfolio&fontSize=24" />
 
 
 # 💻 Tech Stack
