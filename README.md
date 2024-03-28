@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=BDBDC8&height=150&section=header&text=My%20Portfolio&fontSize=70&animation=scaleIn)
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/C언어-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <img src="https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />
